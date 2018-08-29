@@ -1,0 +1,10 @@
+C:\C_Working\ConsoleApp_ProcessCSVs\ConsoleApp_ProcessCSVs\bin\Debug\ConsoleApp_ProcessCSVs.exe.config
+C:\C_Working\ConsoleApp_ProcessCSVs\ConsoleApp_ProcessCSVs\bin\Debug\ConsoleApp_ProcessCSVs.exe
+C:\C_Working\ConsoleApp_ProcessCSVs\ConsoleApp_ProcessCSVs\bin\Debug\ConsoleApp_ProcessCSVs.pdb
+C:\C_Working\ConsoleApp_ProcessCSVs\ConsoleApp_ProcessCSVs\bin\Debug\ExcelDataReader.dll
+C:\C_Working\ConsoleApp_ProcessCSVs\ConsoleApp_ProcessCSVs\bin\Debug\ExcelDataReader.xml
+C:\C_Working\ConsoleApp_ProcessCSVs\ConsoleApp_ProcessCSVs\obj\Debug\ConsoleApp_ProcessCSVs.csprojAssemblyReference.cache
+C:\C_Working\ConsoleApp_ProcessCSVs\ConsoleApp_ProcessCSVs\obj\Debug\ConsoleApp_ProcessCSVs.csproj.CoreCompileInputs.cache
+C:\C_Working\ConsoleApp_ProcessCSVs\ConsoleApp_ProcessCSVs\obj\Debug\ConsoleApp_ProcessCSVs.csproj.CopyComplete
+C:\C_Working\ConsoleApp_ProcessCSVs\ConsoleApp_ProcessCSVs\obj\Debug\ConsoleApp_ProcessCSVs.exe
+C:\C_Working\ConsoleApp_ProcessCSVs\ConsoleApp_ProcessCSVs\obj\Debug\ConsoleApp_ProcessCSVs.pdb

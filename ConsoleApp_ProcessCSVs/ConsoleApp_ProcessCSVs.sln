@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp_ProcessCSVs", "ConsoleApp_ProcessCSVs\ConsoleApp_ProcessCSVs.csproj", "{06371ABA-FD35-4F33-BCB9-C8BB504B4696}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06371ABA-FD35-4F33-BCB9-C8BB504B4696}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06371ABA-FD35-4F33-BCB9-C8BB504B4696}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06371ABA-FD35-4F33-BCB9-C8BB504B4696}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06371ABA-FD35-4F33-BCB9-C8BB504B4696}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BA9971A9-3395-4D81-8396-FEB9293A17FF}
+	EndGlobalSection
+EndGlobal
